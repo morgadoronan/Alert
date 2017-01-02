@@ -1,5 +1,5 @@
-# Alert
-Diretiva para emitir alertas
+# UAUAlerta
+Diretiva para criar alertas
 
 ##Instalação
 ---------
