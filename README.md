@@ -31,9 +31,13 @@ myApp.controller('myController', function ($scope, alertaService) {
 ```
 API
 ---------
-+ **Alerting Factory**
-  + `addAlert(type, message)`
++ **alertaService**
+  + `add(type, message)`
 
-    Add an alert of the given type to the list with the given message. Will apply the class `.alert-[type]` to the alert.
-  + `addInfo(message)`
+    Adiciona uma alerta do tipo especificado(success, info, warning, danger), com a mensagem. sera aplicada a classe ``.alert-[type]``
+    
+  + `clear()`
+  
+    Remove todos os alertas.
+  
 
