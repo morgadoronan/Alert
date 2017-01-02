@@ -1,5 +1,5 @@
 # UAUAlerta
-Diretiva para criar alertas
+Serviço para criar alertas em paginas do UauWeb usando AngularJs 
 
 ##Instalação
 ---------
