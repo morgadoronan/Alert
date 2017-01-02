@@ -41,3 +41,4 @@ API
     Remove todos os alertas.
   
 
+Exemplo:
