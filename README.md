@@ -43,3 +43,5 @@ API
 
 Exemplo:
 ---------
+![alt tag](https://raw.githubusercontent.com/morgadoronan/Alert/master/alert.jpg)
+
